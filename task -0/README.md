@@ -1,1 +1,2 @@
-
+# INSTALL UBUNTU 20.04 [DESKTOP]
+ This task was not easy for me because my computer was very old with 2 GB ram and my processor is pentium dual core processor and while dual - booting my computer become off .so, I spent two days to install ubuntu and I refer google and youtube for dual booting ubuntu.It has been good experience while installing ubantu and I learned so many things by doing these task.
