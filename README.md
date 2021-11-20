@@ -10,7 +10,7 @@ I am NIVED P V from Kozhikode Kerala,and I am fresher at AMRITA SCHOOL OF ENGINE
 [Task-2](https://github.com/nivedpv21040/amfoss-tasks/tree/main/task-2)|Begin your journey with Linux and Git|Tried
 [Task-3](https://github.com/nivedpv21040/amfoss-tasks/tree/main/task-3)|Programming|Not attempted till yet
 [Task-4](https://github.com/nivedpv21040/amfoss-tasks/tree/main/task-4)|Aerglo Mars|Not attempted till yet
-[Task-5]()|Let me C|Not attempted till yet
+[Task-5](https://github.com/nivedpv21040/amfoss-tasks/tree/main/task-5)|Let me C|Not attempted till yet
 [Task-6]()|Flutter based UI task|Tried
 [Task-7]()|Rich Scraper|Not attempted till yet
 [Task-8]()|JSExplorer|Not attempted till yet
