@@ -14,7 +14,7 @@ I am NIVED P V from Kozhikode Kerala,and I am fresher at AMRITA SCHOOL OF ENGINE
 [Task-6](https://github.com/nivedpv21040/amfoss-tasks/tree/main/task-6)|Flutter based UI task|Tried
 [Task-7](https://github.com/nivedpv21040/amfoss-tasks/tree/main/task-7)|Rich Scraper|Not attempted till yet
 [Task-8](https://github.com/nivedpv21040/amfoss-tasks/tree/main/task-8)|JSExplorer|Not attempted till yet
-[Task-9]()|Setup a Simple Personal Website|Not attempted till yet
+[Task-9](https://github.com/nivedpv21040/amfoss-tasks/tree/main/task-9)|Setup a Simple Personal Website|Not attempted till yet
 [Task-10]()|CS50|completed
 [Task-11]()|Poster Design|completed
 [Task-12]()|Make the Block|Not attempted till yet
